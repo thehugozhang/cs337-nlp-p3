@@ -8,6 +8,13 @@ Developed for COMP_SCI 337 Natural Language Processing at [Northwestern Universi
 
 ### Dependencies
 
+```
+pip install recipe-scrapers
+```
+
+```
+python -m pip install ingredient-parser-nlp
+```
 ### Installing
 
 ### Installation debugging
